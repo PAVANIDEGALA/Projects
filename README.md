@@ -1,6 +1,6 @@
 
 > This repo contains all the projects i have done
 
-### Calculator
+### 1. Calculator
 
-[Click here](https://pavanidegala.github.io/Projects/Calculator/calc.html)
+[To view calculator Click here](https://pavanidegala.github.io/Projects/Calculator/calc.html)
